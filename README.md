@@ -12,7 +12,7 @@ A very basic tutorial
 
 Let s see if this work
 
-```
+```python
 say_hello('Alexis')
 ```
 
