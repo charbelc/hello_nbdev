@@ -22,3 +22,15 @@ say_hello('Alexis')
     'Hello Alexis!'
 
 
+
+```python
+o = HelloSayer("Alexis")
+o.say()
+```
+
+
+
+
+    'Hello Alexis!'
+
+
