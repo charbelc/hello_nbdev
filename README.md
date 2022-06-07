@@ -10,13 +10,15 @@ A very basic tutorial
 
 ## How to use
 
-```python
 Let s see if this work
+
+```python
+say_hello('Alexis')
 ```
 
 
 
 
-    2
+    'Hello Alexis!'
 
 
