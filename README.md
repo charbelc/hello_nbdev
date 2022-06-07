@@ -2,6 +2,11 @@
 > A simple tutorial
 
 
+```python
+%load_ext autoreload
+%autoreload 2
+```
+
 A very basic tutorial
 
 ## Install
